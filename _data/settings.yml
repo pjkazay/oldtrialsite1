@@ -1,0 +1,36 @@
+#-------------------------------
+# General Site Settings
+title: Peter K Portfolio
+#logo: logo.svg # You can add own logo.
+description: Product Manager | Use Cases & Insights
+
+#-------------------------------
+# Author Settings
+author:
+  name: Peter Kazarian
+  image: 01.jpg
+  say-hello: This is <strong>Peter Kazarian's space online</strong>
+  bio: Product work at Yahoo, Nordstrom, Vacasa, startups. Sometimes I'm a lead singer. Can build growth, platforms, or tools for users. Love to self-serve my own data. Currently hunting for FTE roles in PNW or remote. Available for Sr Advisor or strategic work too. Husband, Father of 2, PC Gamer. Special needs dad. Loves Youtube, Consumer Reports, cooking, and the blues.
+ 
+
+#-------------------------------
+# Contact links
+linkedin: peterjkazarian # Add your Linkedin handle
+instagram: pjkaz # Add your Instagram handle
+medium: pjkaz # Add your Medium handle
+
+
+#-------------------------------
+# Instagram Feed
+#instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: pjkaz # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+#google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+#mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
